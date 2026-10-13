@@ -66,7 +66,7 @@
 
 **Task:** Print three lines of asterisks using C.
 
-**Source Code:** [View Exercise 2](</Lab1 - Introduction to C Programming/Code & Excuation/Ex2-star-pattern.c>)
+**Source Code:** [View Exercise 2](</Lab1 - Introduction to C Programming/Code & Excuation/Ex 2.c>)
 
 **Output:**
 
